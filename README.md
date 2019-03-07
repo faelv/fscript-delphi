@@ -1,2 +1,4 @@
+**THIS IS AN ARCHIVED REPOSITORY, IT CONTAINS REALLY OLD CODE (RECENTLY MADE PUBLIC BY ME) THAT ONLY EXISTS IN THE EVENT OF STILL BEING USEFUL TO SOMEONE**
+
 # fscript-delphi
 Simple embedded scripting language written in Delphi, for Delphi
